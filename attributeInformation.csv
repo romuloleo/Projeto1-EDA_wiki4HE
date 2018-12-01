@@ -1,0 +1,28 @@
+ID;DESCRIPTION;COLUMN
+0;Male;GENDER
+1;Female;GENDER
+1;Arts & Humanities;DOMAIN
+2;Sciences;DOMAIN
+3;Health Sciences;DOMAIN
+4;Engineering & Architecture;DOMAIN
+5;Law & Politics;DOMAIN
+6;Others;DOMAIN
+?;Unknown;DOMAIN
+0;No;PhD
+1;Yes;PhD
+1;UOC;UNIVERSITY
+2;UPF;UNIVERSITY
+1;Professor;UOC_POSITION
+2;Associate;UOC_POSITION
+3;Assistant;UOC_POSITION
+4;Lecturer;UOC_POSITION
+5;Instructor;UOC_POSITION
+6;Adjunct;UOC_POSITION
+0;No;USERWIKI
+1;Yes;USERWIKI
+1;Strongly disagree;LikertScale
+2;Disagree;LikertScale
+3;Neutral;LikertScale
+4;Agree;LikertScale
+5;Strongly agree;LikertScale
+?;Unknown;LikertScale
